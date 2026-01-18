@@ -1,0 +1,16 @@
+Items: {
+	JeweledCrown: {
+		DisplayName: Jeweled Crown
+		Tooltip:
+			'''
+			+1 defense
+			+1% damage
+			+1% critical strike chance
+			+1% move speed
+			+1% attack speed
+			-1% mana cost
+			+1 life regeneration
+			'Seven gems, seven blessings'
+			'''
+	}
+}
