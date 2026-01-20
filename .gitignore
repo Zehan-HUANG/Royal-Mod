@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# tModLoader build files
+*.tmod
+
+# Temporary files
+*.gif
+gif_to_sprite.py
+
+# IDE
+.vs/
+*.user

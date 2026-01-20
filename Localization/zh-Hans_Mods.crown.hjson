@@ -13,4 +13,18 @@ Items: {
 			"七颗宝石，七重祝福"
 			'''
 	}
+
+	RoyalSword: {
+		DisplayName: 王族之剑
+		Tooltip:
+			'''
+			10%斩杀（对Boss为1%）
+			"为王者而锻造"
+			'''
+	}
+
+	RoyalSoul: {
+		DisplayName: 王者之魂
+		Tooltip: ""
+	}
 }
