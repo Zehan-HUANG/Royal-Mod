@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace crown.Items.Accessories
+namespace RoyalMod.Items.Accessories
 {
     public class JeweledCrown : ModItem
     {
@@ -11,6 +11,7 @@ namespace crown.Items.Accessories
             Item.width = 28;
             Item.height = 28;
             Item.accessory = true;
+            Item.rare = ItemRarityID.Green;
         }
 
         public override void UpdateAccessory(Player player, bool hideVisual)

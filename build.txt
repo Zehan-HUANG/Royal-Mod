@@ -1,3 +1,3 @@
-displayName = 皇冠
+displayName = 王族
 author = 砌冰
 version = 0.1

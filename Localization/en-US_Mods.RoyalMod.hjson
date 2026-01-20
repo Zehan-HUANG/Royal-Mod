@@ -13,4 +13,18 @@ Items: {
 			'Seven gems, seven blessings'
 			'''
 	}
+
+	RoyalSword: {
+		DisplayName: Royal Sword
+		Tooltip:
+			'''
+			10% Execute (1% for Bosses)
+			'Forged for the king'
+			'''
+	}
+
+	RoyalSoul: {
+		DisplayName: Royal Soul
+		Tooltip: ""
+	}
 }
