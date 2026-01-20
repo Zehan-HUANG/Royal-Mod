@@ -12,6 +12,7 @@ namespace RoyalMod.Items.Accessories
             Item.height = 28;
             Item.accessory = true;
             Item.rare = ItemRarityID.Green;
+            Item.value = Item.sellPrice(gold: 2);
         }
 
         public override void UpdateAccessory(Player player, bool hideVisual)
