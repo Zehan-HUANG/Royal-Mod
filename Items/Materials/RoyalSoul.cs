@@ -22,6 +22,7 @@ namespace RoyalMod.Items.Materials
         public override void SetStaticDefaults()
         {
             ItemID.Sets.ItemNoGravity[Type] = true;
+            ItemID.Sets.AnimatesAsSoul[Type] = true;  
         }
 
         // Makes the item glow
@@ -30,12 +31,5 @@ namespace RoyalMod.Items.Materials
             return Color.White;
         }
 
-        // Scales down the inventory icon
-        public override bool PreDrawInInventory(SpriteBatch spriteBatch, Vector2 position, Rectangle frame, Color drawColor, Color itemColor, Vector2 origin, float scale)
-        {
-            Texture2D texture = TextureAssets.Item[Item.type].Value;
-            spriteBatch.Draw(texture, position, frame, drawColor, 0f, origin, scale * 0.5f, SpriteEffects.None, 0f);
-            return false;
-        }
     }
 }
