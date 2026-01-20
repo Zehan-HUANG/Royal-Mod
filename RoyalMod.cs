@@ -7,10 +7,10 @@ using Terraria;
 using Terraria.DataStructures;
 using Terraria.ModLoader;
 
-namespace crown
+namespace RoyalMod
 {
 	// Please read https://github.com/tModLoader/tModLoader/wiki/Basic-tModLoader-Modding-Guide#mod-skeleton-contents for more information about the various files in a mod.
-	public class crown : Mod
+	public class RoyalMod : Mod
 	{
 		public override void PostSetupContent()
 		{

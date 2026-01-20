@@ -5,7 +5,7 @@ using Terraria.GameContent;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace crown.Items.Materials
+namespace RoyalMod.Items.Materials
 {
     public class RoyalSoul : ModItem
     {

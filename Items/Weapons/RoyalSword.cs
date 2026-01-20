@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace crown.Items.Weapons
+namespace RoyalMod.Items.Weapons
 {
     public class RoyalSword : ModItem
     {

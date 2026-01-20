@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace crown.Items.Accessories
+namespace RoyalMod.Items.Accessories
 {
     public class JeweledCrown : ModItem
     {
