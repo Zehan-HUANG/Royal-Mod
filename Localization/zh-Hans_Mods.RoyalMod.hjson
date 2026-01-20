@@ -25,6 +25,11 @@ Items: {
 
 	RoyalSoul: {
 		DisplayName: 王者之魂
-		Tooltip: ""
+		Tooltip: 王者？亡者！
+	}
+
+	QiBing: {
+		DisplayName: 砌冰
+		Tooltip: 砌冰的作弊剑
 	}
 }

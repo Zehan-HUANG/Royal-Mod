@@ -25,6 +25,11 @@ Items: {
 
 	RoyalSoul: {
 		DisplayName: Royal Soul
-		Tooltip: ""
+		Tooltip: Royal? Dead!
+	}
+
+	QiBing: {
+		DisplayName: Qi Bing
+		Tooltip: QiBing's cheat sword
 	}
 }
