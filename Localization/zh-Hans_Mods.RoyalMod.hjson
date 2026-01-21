@@ -18,7 +18,7 @@ Items: {
 		DisplayName: 王族之剑
 		Tooltip:
 			'''
-			10%斩杀（对Boss为1%）
+			10%斩杀（对Boss1%）
 			"为王者而锻造"
 			'''
 	}
@@ -32,4 +32,19 @@ Items: {
 		DisplayName: 砌冰
 		Tooltip: 砌冰的作弊剑
 	}
+
+	GlorySword: {
+		DisplayName: 荣耀之剑
+		Tooltip:
+			'''
+			10%斩杀（对Boss1%）
+			"以荣耀之名"
+			'''
+	}
+}
+
+Projectiles: {
+	// ExecuteBlade.DisplayName: Execute Blade
+	// GloryProjectile.DisplayName: Glory Projectile
+	// QiBingSwing.DisplayName: Qi Bing Swing
 }

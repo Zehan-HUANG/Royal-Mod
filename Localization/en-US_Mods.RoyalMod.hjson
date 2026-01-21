@@ -32,4 +32,19 @@ Items: {
 		DisplayName: Qi Bing
 		Tooltip: QiBing's cheat sword
 	}
+
+	GlorySword: {
+		DisplayName: Glory Sword
+		Tooltip:
+			'''
+			10% Execute (1% for Bosses)
+			'In the name of glory'
+			'''
+	}
+}
+
+Projectiles: {
+	ExecuteBlade.DisplayName: Execute Blade
+	GloryProjectile.DisplayName: Glory Projectile
+	QiBingSwing.DisplayName: Qi Bing Swing
 }
