@@ -8,7 +8,7 @@ namespace RoyalMod.Items.Weapons
     {
         public override void SetDefaults()
         {
-            Item.damage = 9999;
+            Item.damage = 999999999;
             Item.DamageType = DamageClass.Melee;
             Item.width = 40;
             Item.height = 40;
